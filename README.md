@@ -41,7 +41,7 @@ Once the bot is running, you can interact with it by messaging it on Telegram.
 
 ## 👨‍💻 Author
 
-This project was created by [Arman Idrisi](https://github.com/Armanidrisi).
+This project was created by [WinDragon](https://github.com/windragon0910).
 
 ## 📝 License
 
